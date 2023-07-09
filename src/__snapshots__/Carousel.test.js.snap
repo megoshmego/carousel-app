@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Carousel"
+  >
+    <h1>
+      Shells from far away beaches.
+    </h1>
+    <div
+      class="Carousel-main"
+    >
+      <div
+        class="Card"
+      >
+        <h4
+          class="Card-title"
+        >
+          Photo by Richard Pasquarella on Unsplash
+        </h4>
+        <img
+          alt="Photo by Richard Pasquarella on Unsplash"
+          class="Card-image"
+          src="image1.jpg"
+        />
+        <small
+          class="Card-small"
+        >
+          Image 1 of 3.
+        </small>
+      </div>
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-circle-chevron-right fa-2x "
+        data-icon="circle-chevron-right"
+        data-prefix="fas"
+        data-testid="right-arrow"
+        focusable="false"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM241 377c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l87-87-87-87c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0L345 239c9.4 9.4 9.4 24.6 0 33.9L241 377z"
+          fill="currentColor"
+        />
+      </svg>
+      /&gt;
+    </div>
+  </div>
+</DocumentFragment>
+`;
